@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at :- https://github.com/sagaryadav9869-hash
 
-- 📫 How to reach me **sagaryadav9869@gmail.com**
+- 📫 How to reach me **YOUR_EMAIL@gmail.com**
 
 <br>
 
@@ -32,17 +32,8 @@
   <a href="https://github.com/sagaryadav9869-hash" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:sagaryadav9869@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_PUBLIC_NAUKRI_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/NAUKRI-275DF5?style=for-the-badge&logo=briefcase&logoColor=white" alt="Naukri" />
-  </a>
-  <a href="YOUR_PUBLIC_INDEED_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/INDEED-2164F3?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
-  </a>
-  <a href="YOUR_PUBLIC_APNA_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/APNA-1F8268?style=for-the-badge&logo=workplace&logoColor=white" alt="Apna" />
   </a>
 </p>
 
