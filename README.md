@@ -32,8 +32,17 @@
   <a href="https://github.com/sagaryadav9869-hash" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sagaryadav9869@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_NAUKRI_PROFILE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/NAUKRI-275DF5?style=for-the-badge&logo=briefcase&logoColor=white" alt="Naukri" />
+  </a>
+  <a href="YOUR_INDEED_PROFILE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/INDEED-2164F3?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
+  </a>
+  <a href="YOUR_APNA_PROFILE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/APNA-1F8268?style=for-the-badge&logo=workplace&logoColor=white" alt="Apna" />
   </a>
 </p>
 
