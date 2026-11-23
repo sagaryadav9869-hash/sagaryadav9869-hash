@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at :- https://github.com/sagaryadav9869-hash
 
-- 📫 How to reach me **YOUR_EMAIL@gmail.com**
+- 📫 How to reach me **Sagaryadav9869@gmail.com**
 
 <br>
 
