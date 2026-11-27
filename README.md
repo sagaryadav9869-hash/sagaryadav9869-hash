@@ -4,22 +4,27 @@
 
 <br>
 
-- 🌱 I’m currently building projects in **Data Analytics, Machine Learning, and MIS Reporting**
+- 🌱 I’m currently building projects in **Data Analytics, Machine Learning, Deep Learning, NLP, and Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at :- https://github.com/sagaryadav9869-hash
 
 - 📫 How to reach me **Sagaryadav9869@gmail.com**
 
 <br>
-
-### Languages and Tools:
+### Languages, Tools & Domains:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" title="Tableau" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" title="Microsoft Excel" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning (Scikit-Learn)" title="Machine Learning" width="50" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="Deep Learning (PyTorch)" title="Deep Learning" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning (TensorFlow)" title="TensorFlow" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Artificial Intelligence (AI)" title="Artificial Intelligence" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/bot.png" alt="Natural Language Processing (NLP)" title="Natural Language Processing (NLP)" width="45" height="45"/>
 </p>
+
 
 <br>
 
@@ -32,7 +37,7 @@
   <a href="https://github.com/sagaryadav9869-hash" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:Sagaryadav9869@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
